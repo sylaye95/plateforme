@@ -1,0 +1,41 @@
+ 
+.footer{
+    padding-top: 2.5%;
+    padding-bottom: 3.6%;
+    
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 90px;
+    background-color:#333333;
+    padding: 1%;
+
+}
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+.footer{
+    color: #FFF;
+    font-size: 12px;
+    font-family: 'Daxlight';
+}
+
+.banniere{
+    
+    height: 200px;
+    height: 100px;
+    margin: auto;
+    margin-top: -20px;
+    border-bottom: 1px solid #1100dc;
+}
+body{
+    font-family: 'Daxlight';
+    
+}
